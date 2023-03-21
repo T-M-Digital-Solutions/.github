@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/laptop-computer_1f4bb.png" width="100" height="100"/>
-</p>
-<h2 align="center">T&M Digital Solutions</h2>
+<h2 align="center">Welcome to the T&M Digital Solutions GitHub</h2>
 <p align="center">
   🚀 Providing exceptional coding services to our clients<br/>
   👨‍💻 Team of skilled developers and designers<br/>
