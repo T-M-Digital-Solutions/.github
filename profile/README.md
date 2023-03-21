@@ -1,6 +1,6 @@
 ## Welcome to the GitHub of T&M Digital Solutions.
 
-At T&M Digital Solutions, we are committed to providing exceptional coding services to our clients. Our team of skilled developers and designers work collaboratively with our clients to create innovative, customized solutions that meet their unique needs. We strive to deliver high-quality work in a timely and cost-effective manner, while maintaining the highest standards of professionalism and customer service. Our goal is to exceed our clients' expectations and establish long-lasting relationships built on trust and excellence.
+Here at T&M Digital Solutions, we are committed to providing exceptional coding services to our clients. Our team of skilled developers and designers work collaboratively with our clients to create innovative, customized solutions that meet their unique needs. We strive to deliver high-quality work in a timely and cost-effective manner, while maintaining the highest standards of professionalism and customer service. Our goal is to exceed our clients' expectations and establish long-lasting relationships built on trust and excellence.
 
 <!--
 
